@@ -1,5 +1,5 @@
-## Achmad Irianto Eka Putra-@ryanbekhen
-Hi! I'm Rydwan, with full description
+## Ridwan-@ryanbekhen
+Hi! I'm Ridwan, with full description
 
 ### Get in touch with me
 - Site: [https://example.me/](https://nvil.tech/)

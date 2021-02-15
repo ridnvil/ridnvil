@@ -1,4 +1,4 @@
-## Ridwan-@ryanbekhen
+## Ridwan
 Hi! I'm Ridwan, with full description
 
 ### Get in touch with me

@@ -1,7 +1,7 @@
 ## Ridwan
-Hi! I'm Ridwan, with full description
+Hi! I'm Ridwan, I'm a Software Engineer
 
 ### Get in touch with me
-- Site: [https://example.me/](https://nvil.tech/)
-- Linkedin: [@ryanbekhen](https://linkedin.com/in/rid-wan-57047b137)
-- Instagram: [@ryanbekhen](https://instagram.com/rid.nvil17)
+- Site: [https://nvil.tech/](https://nvil.tech/)
+- Linkedin: [@ridnvil](https://linkedin.com/in/rid-wan-57047b137)
+- Instagram: [@ridnvil](https://instagram.com/rid.nvil17)

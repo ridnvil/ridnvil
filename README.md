@@ -1,5 +1,5 @@
 ## Ridwan
-Hi! I'm Ridwan, I'm a Software Engineer
+Hi! I'm Ridwan, I'm a Backend Engineer & Full Stack Engineer
 
 ### Profile Details
 - Linkedin: [@ridnvil](https://linkedin.com/in/rid-wan-57047b137)
